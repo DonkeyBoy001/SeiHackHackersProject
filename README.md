@@ -9,7 +9,7 @@ Design a website based on SEI, which can facilitate users to send tokens to thei
 
 The main interface is as follows
 
-README.assets/image-20230913191818708.png
+![Image text](README.assets/image-20230913191818708.png)
 
 ## Basic Function
 
