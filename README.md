@@ -16,9 +16,7 @@ The main interface is as follows
 There are **4 Basic functions** in total
 
 Connect wallet: Link wallet
-
-![Image text]([/Users/zhouzhenzhou/Documents/GitHub/SeiHackHackersProject](https://github.com/DonkeyBoy001/SeiHackHackersProject/blob/main)/README.assets/image-20230913192415863.png)
-
+![Image text](https://github.com/DonkeyBoy001/SeiHackHackersProject/blob/main/README.assets/image-20230913192415863.png)
 
 make sure download the wallet before you connect it
 
