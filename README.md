@@ -9,7 +9,7 @@ Design a website based on SEI, which can facilitate users to send tokens to thei
 
 The main interface is as follows
 
-![Image text]([README.assets/image-20230913191818708.png](https://github.com/DonkeyBoy001/SeiHackHackersProject/blob/main/README.assets/image-20230913191818708.png))
+![Image text](https://github.com/DonkeyBoy001/SeiHackHackersProject/blob/main/README.assets/image-20230913191818708.png)
 
 ## Basic Function
 
